@@ -1,0 +1,217 @@
+[
+  {
+    "buildingId": "GRAND_Tiba_Rose_Hotel",
+    "name": "GRAND TibaRose Hotel",
+    "type": "hotel",
+    "anchors": {
+      "default": "GRAND_Tiba_Rose_Hotel",
+      "entry": "GRAND_Tiba_Rose_Hotel",
+      "groundShop": "GRAND_Tiba_Rose_Hotel"
+    },
+    "floors": [
+      {
+        "levelLabel": "G",
+        "levelNumber": 0,
+        "title": "الدور الأرضي",
+        "note": "عند الوصول: Grand Store بالدور الأرضي",
+        "facilities": [
+          {
+            "name": "Grand Store",
+            "goToAnchor": "GRAND_STORE"
+          }
+        ]
+      },
+      {
+        "levelLabel": "1",
+        "levelNumber": 1,
+        "title": "الريسبشن + قاعة الأوركيد",
+        "note": "عند الوصول: اصعد للدور 1",
+        "facilities": [
+          {
+            "name": "الريسبشن",
+            "goToAnchor": "RECEPTION_GRAND"
+          },
+          {
+            "name": "قاعة الأوركيد",
+            "goToAnchor": "H_GRAND_ORCHID"
+          }
+        ]
+      },
+      {
+        "levelLabel": "2",
+        "levelNumber": 2,
+        "title": "مطعم جاردنيا",
+        "note": "عند الوصول: اصعد للدور 2",
+        "facilities": [
+          {
+            "name": "مطعم جاردنيا",
+            "goToAnchor": "GRAND_Gardinea"
+          }
+        ]
+      },
+      {
+        "levelLabel": "3",
+        "levelNumber": 3,
+        "title": "قاعة التوليب",
+        "note": "عند الوصول: اصعد للدور 3",
+        "facilities": [
+          {
+            "name": "قاعة التوليب",
+            "goToAnchor": "H_GRAND_tolip"
+          }
+        ]
+      },
+      {
+        "levelLabel": "7",
+        "levelNumber": 7,
+        "title": "حمام السباحة",
+        "note": "عند الوصول: اصعد للدور 7",
+        "facilities": [
+          {
+            "name": "حمام السباحة",
+            "goToAnchor": "Grand_Tiba_Pool"
+          }
+        ]
+      },
+      {
+        "levelLabel": "15",
+        "levelNumber": 15,
+        "title": "قاعة VIP",
+        "note": "عند الوصول: اصعد للدور 15",
+        "facilities": [
+          {
+            "name": "قاعة VIP",
+            "goToAnchor": "15vip"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "buildingId": "TIBA_Rose_Hotel",
+    "name": "فندق تيباروز",
+    "type": "hotel",
+    "anchors": {
+      "default": "TIBA_Rose_Hotel",
+      "entry": "TIBA_Rose_Hotel"
+    },
+    "floors": [
+      {
+        "levelLabel": "G",
+        "levelNumber": 0,
+        "title": "الدور الأرضي",
+        "note": "القاعات والمطعم والمكاتب والريسبشن كلها بالدور الأرضي",
+        "facilities": [
+          {
+            "name": "الريسبشن",
+            "goToAnchor": "TIBA_RECEPTION"
+          },
+          {
+            "name": "قاعة الباسنت",
+            "goToAnchor": "H_TIBA_passant"
+          },
+          {
+            "name": "قاعة الكاميليا",
+            "goToAnchor": "H_TIBA_camilia_ENTRY"
+          },
+          {
+            "name": "قاعة الجلاديوس",
+            "goToAnchor": "H_TIBA_gladius_ENTRY"
+          },
+          {
+            "name": "مطعم بيونيا",
+            "goToAnchor": "TIBA_beonia_Resturant"
+          },
+          {
+            "name": "مكتب مدير الفندق",
+            "goToAnchor": "HOtel_MANAGER"
+          },
+          {
+            "name": "مكتب المدير العام",
+            "goToAnchor": "General_MANAGER_OFFICE"
+          },
+          {
+            "name": "مكتب الحفلات",
+            "goToAnchor": "BANQUTE_OFFICE"
+          }
+        ]
+      },
+      {
+        "levelLabel": "1+",
+        "levelNumber": 1,
+        "title": "الأدوار العلوية",
+        "note": "غرف وسويتات الفندق (لا يوجد ترقيم غرف مفصّل حاليًا، المسار يوصلك لمدخل الفندق)",
+        "facilities": [
+          {
+            "name": "غرف وسويتات",
+            "goToAnchor": "TIBA_Rose_Hotel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "buildingId": "PARADISE",
+    "name": "Paradise",
+    "type": "hotel",
+    "anchors": {
+      "default": "PARADISE",
+      "entry": "PARADISE"
+    },
+    "floors": [
+      {
+        "levelLabel": "G",
+        "levelNumber": 0,
+        "title": "Swimming Pool (أرضي)",
+        "goToAnchor": "Pradise_Pool",
+        "note": "عند الوصول: حمام السباحة بالدور الأرضي"
+      },
+      {
+        "levelLabel": "2",
+        "levelNumber": 2,
+        "title": "Gym + Sauna + Jacuzzi",
+        "goToAnchor": "PARADISE",
+        "note": "عند الوصول: اصعد للدور 2 (Gym/Sauna/Jacuzzi)"
+      },
+      {
+        "levelLabel": "3",
+        "levelNumber": 3,
+        "title": "Physical Therapy Center",
+        "goToAnchor": "PARADISE",
+        "note": "عند الوصول: اصعد للدور 3 (العلاج الطبيعي)"
+      }
+    ]
+  },
+  {
+    "buildingId": "MARVEL",
+    "name": "Marvel",
+    "type": "activity",
+    "anchors": {
+      "default": "MARVEL",
+      "entry": "MARVEL"
+    },
+    "floors": [
+      {
+        "levelLabel": "G",
+        "levelNumber": 0,
+        "title": "Bowling + Marvel Cafe (أرضي)",
+        "goToAnchor": "MARVEL",
+        "note": "عند الوصول: البولينج + كافية مارفيل (أرضي)"
+      },
+      {
+        "levelLabel": "2",
+        "levelNumber": 2,
+        "title": "Marvel Restaurant",
+        "goToAnchor": "MARVEL",
+        "note": "عند الوصول: اصعد للدور 2 (مطعم مارفيل)"
+      },
+      {
+        "levelLabel": "3",
+        "levelNumber": 3,
+        "title": "Marvel Rooftop Cafeteria",
+        "goToAnchor": "MARVEL",
+        "note": "عند الوصول: اصعد للدور 3 (روف مارفيل)"
+      }
+    ]
+  }
+]

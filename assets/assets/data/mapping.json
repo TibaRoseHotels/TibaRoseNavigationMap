@@ -1,0 +1,528 @@
+[
+  {
+    "id": "TIBA_Rose_Hotel",
+    "name": "فندق تيباروز",
+    "category": "الفنادق",
+    "image": "assets/places/TIBA_Rose_Hotel.jpeg",
+    "nameEn": "Tiba Rose Hotel",
+    "categoryEn": "Hotels"
+  },
+  {
+    "id": "GRAND_Tiba_Rose_Hotel",
+    "name": "فندق جراند تيباروز ",
+    "category": "الفنادق",
+    "image": "assets/places/GRAND_Tiba_Rose_Hotel.jpeg",
+    "nameEn": "Grand Tiba Rose Hotel",
+    "categoryEn": "Hotels"
+  },
+  {
+    "id": "Tiba_Shallih",
+    "name": "شاليهات تيباروز ",
+    "category": "الفنادق",
+    "image": "assets/places/Tiba_Shallih.jpeg",
+    "nameEn": "Tiba Rose Chalets",
+    "categoryEn": "Hotels"
+  },
+  {
+    "id": "PARADISE",
+    "name": "PARADISE",
+    "category": "PARADISE",
+    "image": "assets/places/PARADISE.jpeg",
+    "nameEn": "Paradise",
+    "categoryEn": "Paradise"
+  },
+  {
+    "id": "MARVEL",
+    "name": "MARVEL",
+    "category": "MARVEL",
+    "image": "assets/places/MARVEL.jpeg",
+    "nameEn": "Marvel",
+    "categoryEn": "Marvel"
+  },
+  {
+    "id": "GRAND_STORE",
+    "name": "Grand Store",
+    "category": "Grand Store",
+    "image": "assets/places/GRAND_STORE.jpeg",
+    "nameEn": "Grand Store",
+    "categoryEn": "Grand Store"
+  },
+  {
+    "id": "H_TIBA_passant",
+    "name": "قاعة الباسنت",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_TIBA_passant.jpeg",
+    "nameEn": "Passant Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_TIBA_gladius_ENTRY",
+    "name": "قاعة الجلاديوس",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_TIBA_gladius_ENTRY.jpeg",
+    "nameEn": "Gladius Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_TIBA_vip_ENTRY",
+    "name": " VIP قاعة",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_TIBA_vip_ENTRY.jpeg",
+    "nameEn": "VIP Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_TIBA_camilia_ENTRY",
+    "name": "قاعة الكاميليا",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_TIBA_camilia_ENTRY.jpeg",
+    "nameEn": "Camilia Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_PANSSIA",
+    "name": "قاعة البانسية",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_PANSSIA.jpg",
+    "nameEn": "Panssia Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_VILLA_ROSE",
+    "name": "قاعة فيلا روز",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_VILLA_ROSE.jpeg",
+    "nameEn": "Villa Rose Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_GRAND_tolip",
+    "name": "قاعة التيوليب",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_GRAND_tolip.jpeg",
+    "nameEn": "Tolip Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "H_GRAND_ORCHID",
+    "name": "قاعة الاوركيد",
+    "category": "قاعات أفراح",
+    "image": "assets/places/H_GRAND_ORCHID.jpeg",
+    "nameEn": "Orchid Hall",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "garden_vip_1",
+    "name": " 1VIP جاردن",
+    "category": "قاعات أفراح",
+    "image": "assets/places/garden_vip_1.jpeg",
+    "nameEn": "Garden VIP 1",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "garden_vip_2",
+    "name": " 2VIP جاردن",
+    "category": "قاعات أفراح",
+    "image": "assets/places/garden_vip_2.jpeg",
+    "nameEn": "Garden VIP 2",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "15vip",
+    "name": " قاعة الدور 15",
+    "category": "قاعات أفراح",
+    "image": "assets/places/15vip.jpeg",
+    "nameEn": "VIP Hall (Floor 15)",
+    "categoryEn": "Event Halls"
+  },
+  {
+    "id": "gate6",
+    "name": "gate6",
+    "category": "البوابات",
+    "image": "assets/places/gate6.jpeg",
+    "nameEn": "Gate 6",
+    "categoryEn": "Gates"
+  },
+  {
+    "id": "gate1",
+    "name": "gate1",
+    "category": "البوابات",
+    "image": "assets/places/gate1.jpeg",
+    "nameEn": "Gate 1",
+    "categoryEn": "Gates"
+  },
+  {
+    "id": "gate7",
+    "name": "gate7",
+    "category": "البوابات",
+    "image": "assets/places/gate7.jpeg",
+    "nameEn": "Gate 7",
+    "categoryEn": "Gates"
+  },
+  {
+    "id": "gate3",
+    "name": "gate3",
+    "category": "البوابات",
+    "image": "assets/places/gate3.jpeg",
+    "nameEn": "Gate 3",
+    "categoryEn": "Gates"
+  },
+  {
+    "id": "gate4",
+    "name": "gate4",
+    "category": "البوابات",
+    "image": "assets/places/gate4.jpeg",
+    "nameEn": "Gate 4",
+    "categoryEn": "Gates"
+  },
+  {
+    "id": "garage_gate",
+    "name": "garage_gate",
+    "category": "البوابات",
+    "image": "assets/places/garage_gate.jpeg",
+    "nameEn": "Garage Gate",
+    "categoryEn": "Gates"
+  },
+  {
+    "id": "garage_enter",
+    "name": "مدخل السيارات",
+    "category": "الجراج",
+    "image": "assets/places/garage_gate.jpeg",
+    "nameEn": "Car Entrance",
+    "categoryEn": "Garage"
+  },
+  {
+    "id": "garage_exit",
+    "name": "مخرج السيارات",
+    "category": "الجراج",
+    "image": "assets/places/garage_gate.jpeg",
+    "nameEn": "Car Exit",
+    "categoryEn": "Garage"
+  },
+  {
+    "id": "GRAND_CAFE",
+    "name": "جراند كافية",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/GRAND_CAFE.jpeg",
+    "nameEn": "Grand Cafe",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "GARDEN",
+    "name": "الجاردن",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/GARDEN.jpeg",
+    "nameEn": "The Garden",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "BLUE_VIBES",
+    "name": "بلو فايبس",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/BLUE_VIBES.jpeg",
+    "nameEn": "Blue Vibes",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "LOPPY_TERRACE_CAFE",
+    "name": "لوبى كافية",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/LOPPY_TERRACE_CAFE.jpeg",
+    "nameEn": "Lobby Terrace Cafe",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "TIBA_beonia_Resturant",
+    "name": "مطعم بيونيا",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/TIBA_beonia_Resturant.jpeg",
+    "nameEn": "Beonia Restaurant",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "GRAND_Gardinea",
+    "name": "مطعم جاردنيا ",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/GRAND_Gardinea.jpeg",
+    "nameEn": "Gardenia Restaurant",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "Alaa_ALdin_Cafe",
+    "name": "علاء الدين",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/Alaa_ALdin_Cafe.jpeg",
+    "nameEn": "Aladdin Cafe",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "Central_park",
+    "name": "Central_park",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/Central_park.jpeg",
+    "nameEn": "Central Park",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "Tiba_pool_cafe",
+    "name": "Tiba_pool_cafe",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/Tiba_pool_cafe.jpeg",
+    "nameEn": "Pool Cafe",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "SAFINA_RESTURANT",
+    "name": "مطعم السفينة للماكولات البحرية",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/SAFINA_RESTURANT.jpeg",
+    "nameEn": "Safina Seafood Restaurant",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "Take_AWay",
+    "name": "تيباروز الحلويات والمخبوزات",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/Take_AWay.jpeg",
+    "nameEn": "Tiba Rose Sweets & Bakery",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "Folla_Restaurant",
+    "name": "مطعم فلة فول وطعمية",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/Folla_Restaurant.jpeg",
+    "nameEn": "Folla Restaurant",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "FISH_MARKET",
+    "name": "محل السمك",
+    "category": "المطاعم والكافيهات",
+    "image": "assets/places/FISH_MARKET.jpeg",
+    "nameEn": "Fish Market",
+    "categoryEn": "Restaurants & Cafes"
+  },
+  {
+    "id": "KIDS_AREA",
+    "name": "Kids area",
+    "category": "الأنشطة",
+    "image": "assets/places/KIDS_AREA.jpeg",
+    "nameEn": "Kids Area",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "MICKEY_PARK",
+    "name": "MICKEY_PARK",
+    "category": "الأنشطة",
+    "image": "assets/places/MICKEY_PARK.jpeg",
+    "nameEn": "Mickey Park",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "MARVEL_bowling",
+    "name": "MARVEL_bowling",
+    "category": "الأنشطة",
+    "image": "assets/places/MARVEL_bowling.jpeg",
+    "nameEn": "Marvel Bowling",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "SPORTS_ACADEMIES",
+    "name": "الاكاديميات الرياضية",
+    "category": "الأنشطة",
+    "image": "assets/places/SPORTS_ACADEMIES.jpeg",
+    "nameEn": "Sports Academies",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "BASKET_BALL",
+    "name": "Basket Ball",
+    "category": "الأنشطة",
+    "image": "assets/places/BASKET_BALL.jpeg",
+    "nameEn": "Basketball Court",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "FOOTBALL",
+    "name": "FOOTBALL",
+    "category": "الأنشطة",
+    "image": "assets/places/FOOTBALL.jpg",
+    "nameEn": "Football Field",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "SQUASH",
+    "name": "SQUASH",
+    "category": "الأنشطة",
+    "image": "assets/places/SQUASH.jpeg",
+    "nameEn": "Squash Court",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "BADEL",
+    "name": "PADEL",
+    "category": "الأنشطة",
+    "image": "assets/places/BADEL.jpeg",
+    "nameEn": "Padel Court",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "Karting_Cars",
+    "name": "سباق السيارات",
+    "category": "الأنشطة",
+    "image": "assets/places/BADEL.jpeg",
+    "nameEn": "Karting",
+    "categoryEn": "Activities"
+  },
+  {
+    "id": "General_MANAGER_OFFICE",
+    "name": "مكتب مدير الدار",
+    "category": "المكاتب",
+    "image": "assets/places/General_MANAGER_OFFICE.jpeg",
+    "nameEn": "General Manager Office",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "BANQUTE_OFFICE",
+    "name": "مكتب الحفلات",
+    "category": "المكاتب",
+    "image": "assets/places/BANQUTE_OFFICE.jpeg",
+    "nameEn": "Banquet Office",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "HOtel_MANAGER",
+    "name": "مكتب مدير الاسكان",
+    "category": "المكاتب",
+    "image": "assets/places/HOtel_MANAGER.jpeg",
+    "nameEn": "Hotel Manager Office",
+    "categoryEn": "Offices"
+  },
+ {
+    "id": "Admin_MANAGER_OFFICE",
+    "name": "مكتب مدير الادارى",
+    "category": "المكاتب",
+    "image": "assets/places/Admin_MANAGER_OFFICE.jpeg",
+    "nameEn": "Admin_MANAGER_OFFICE",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "F&BMANAGER_OFFICE",
+    "name": "مكتب الأغذية والمشروبات",
+    "category": "المكاتب",
+    "image": "assets/places/F&BMANAGER_OFFICE.jpeg",
+    "nameEn": "F&B Manager Office",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "SUBSCRIBTION_office",
+    "name": "مكتب الأشتراكات",
+    "category": "المكاتب",
+    "image": "assets/places/SUBSCRIBTION_office.jpeg",
+    "nameEn": "Subscriptions Office",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "Marketing_OFFICE",
+    "name": "مكتب التسويق",
+    "category": "المكاتب",
+    "image": "assets/places/Marketing_OFFICE.jpeg",
+    "nameEn": "Marketing Office",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "SECURITY_OFFICE",
+    "name": "مكتب الأمن",
+    "category": "المكاتب",
+    "image": "assets/places/SECURITY_OFFICE.jpeg",
+    "nameEn": "Security Office",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "TIBA_RECEPTION",
+    "name": "ريسبشن فندق تيبا روز",
+    "category": "المكاتب",
+    "image": "assets/places/TIBA_RECEPTION.jpeg",
+    "nameEn": "Tiba Rose Reception",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "RECEPTION_GRAND",
+    "name": "ريسبشن فندق جراند  تيبا روز",
+    "category": "المكاتب",
+    "image": "assets/places/RECEPTION_GRAND.jpeg",
+    "nameEn": "Grand Tiba Rose Reception",
+    "categoryEn": "Offices"
+  },
+  {
+    "id": "TIBA_Hotel_Pool",
+    "name": "حمام سباحة تيباروز",
+    "category": "حمام السباحة",
+    "image": "assets/places/TIBA_Hotel_Pool.jpeg",
+    "nameEn": "Tiba Rose Pool",
+    "categoryEn": "Swimming Pools"
+  },
+  {
+    "id": "Grand_Tiba_Pool",
+    "name": "حمام سباحة جراند تيباروز",
+    "category": "حمام السباحة",
+    "image": "assets/places/Grand_Tiba_Pool.jpeg",
+    "nameEn": "Grand Tiba Rose Pool",
+    "categoryEn": "Swimming Pools"
+  },
+  {
+    "id": "Pradise_Pool",
+    "name": "حمام سباحة براديس",
+    "category": "حمام السباحة",
+    "image": "assets/places/Pradise_Pool.jpeg",
+    "nameEn": "Paradise Pool",
+    "categoryEn": "Swimming Pools"
+  },
+  {
+    "id": "MOSQUE",
+    "name": "المسجد",
+    "category": "المسجد",
+    "image": "assets/places/MOSQUE.jpeg",
+    "nameEn": "Mosque",
+    "categoryEn": "Mosque"
+  },
+  {
+    "id": "CLINIC",
+    "name": "العيادة",
+    "category": "العيادة",
+    "image": "assets/places/CLINIC.jpeg",
+    "nameEn": "Clinic",
+    "categoryEn": "Clinic"
+  },
+  {
+    "id": "REAL_ESTATE-REGISTRY",
+    "name": "الشهر العقارى",
+    "category": "الشهر العقارى",
+    "image": "assets/places/REAL_ESTATE-REGISTRY.jpeg",
+    "nameEn": "Real Estate Registry",
+    "categoryEn": "Real Estate Registry"
+  },
+  {
+    "id": "Hany_Salama_Hyper",
+    "name": "هايبر سامى سلامة",
+    "category": "سامى سلامة",
+    "image": "assets/places/Hany_Salama_Hyper.jpeg",
+    "nameEn": "Hany Salama Hyper",
+    "categoryEn": "Sami Salama"
+  },
+  {
+    "id": "r39",
+    "name": "تقاطع 1",
+    "category": "التقاطاعات",
+    "nameEn": "Junction 1",
+    "categoryEn": "Junctions"
+  },
+  {
+    "id": "r7",
+    "name": "تقاطع 2",
+    "category": "التقاطاعات",
+    "nameEn": "Junction 2",
+    "categoryEn": "Junctions"
+  }
+]
